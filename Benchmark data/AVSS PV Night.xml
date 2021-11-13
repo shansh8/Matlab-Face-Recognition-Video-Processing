@@ -1,0 +1,61 @@
+<?xml version='1.0' ?>
+<IlidsLibraryIndex>
+  <Library>
+    <scenario>
+      Parked Vehicle
+    </scenario>
+    <dataset>
+      AVSS 2007
+    </dataset>
+    <libversion>
+      1.0
+    </libversion>
+    <clip>
+      <filename>
+        AVSS PV Night.mov
+      </filename>
+      <Stage>
+        2
+      </Stage>
+      <Duration>
+        00:04:04
+      </Duration>
+      <AlarmEvents>
+        1
+      </AlarmEvents>
+      <Weather>
+        <TimeOfDay>
+          Night
+        </TimeOfDay>
+        <Rain>
+          No
+        </Rain>
+        <Snow>
+          No
+        </Snow>
+      </Weather>
+      <Alarms>
+        <Alarm>
+          <StartTime>
+            00:03:25
+          </StartTime>
+          <AlarmDescription>
+            Vehicle parks in a no parking zone
+          </AlarmDescription>
+          <AlarmDuration>
+            00:00:15
+          </AlarmDuration>
+          <Distance>
+            10%
+          </Distance>
+          <SubjectDescription>
+            MPV
+          </SubjectDescription>
+          <SubjectOrientation>
+            Facing towards camera
+          </SubjectOrientation>
+        </Alarm>
+      </Alarms>
+    </clip>
+  </Library>
+</IlidsLibraryIndex>

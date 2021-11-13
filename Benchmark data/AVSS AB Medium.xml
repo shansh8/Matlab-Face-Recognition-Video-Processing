@@ -1,0 +1,53 @@
+<?xml version='1.0' ?>
+<IlidsLibraryIndex>
+  <Library>
+    <scenario>
+      Abandoned Baggage
+    </scenario>
+    <dataset>
+      AVSS 2007
+    </dataset>
+    <libversion>
+      1.0
+    </libversion>
+    <clip>
+      <filename>
+        AVSS AB Medium.mov
+      </filename>
+      <Stage>
+        1
+      </Stage>
+      <Duration>
+        00:03:13
+      </Duration>
+      <AlarmEvents>
+        1
+      </AlarmEvents>
+      <PeriodOfDay>
+        Medium
+      </PeriodOfDay>
+      <Alarms>
+        <Alarm>
+          <StartTime>
+            00:02:42
+          </StartTime>
+          <AlarmDescription>
+            Abandoned object
+          </AlarmDescription>
+          <AlarmDuration>
+            00:00:18
+          </AlarmDuration>
+          <ObjectZone>
+            Mid
+          </ObjectZone>
+          <ObjectDescription>
+            Sports bag
+          </ObjectDescription>
+          <SuspectDressCode>
+            Smart
+          </SuspectDressCode>
+        </Alarm>
+      </Alarms>
+    </clip>
+  </Library>
+</IlidsLibraryIndex>

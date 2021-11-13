@@ -1,0 +1,10 @@
+Face Detection for MATLAB
+using SVM and Support Vector Machines
+
+% Version : 1.0
+% Date : 12.26.2010
+% Author  : Omid Sakhi
+% http://www.facedetectioncode.com
+
+version: 1.1
+fix: The Threshod in imscan.m is replaced with 0.
